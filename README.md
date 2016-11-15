@@ -1,4 +1,4 @@
-Blank HTML App Designer Template for Building Packaged Mobile Web Apps
+Task List Based app created by das..
 ======================================================================
 
 Copyright © 2012-2015, Intel Corporation. All rights reserved.
